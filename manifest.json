@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "Code-barres sur Auchan Drive",
-    "description": "Permet d'afficher les code-barres des produits sur le site Auchan Drive afin de rendre possible le scan via des application comme Yuka.",
-    "version": "1.0.0",
+    "description": "Afficher les code-barres des produits sur Auchan Drive afin de rendre possible le scan via des applications comme Yuka.",
+    "version": "1.0.1",
     "author": "Pierre Josselin",
     "icons": {
         "128": "icon.png"
